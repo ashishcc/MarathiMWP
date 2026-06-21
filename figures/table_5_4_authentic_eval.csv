@@ -1,0 +1,10 @@
+Model,Translated Acc (%),Authentic Acc (%),Gap (pp),Auth Eq Acc (%),Auth BLEU
+Rule-Based,29.46,6.12,23.34,0.0,1.31
+Template-Based,26.91,9.18,17.73,0.0,3.44
+mT5-small (Marathi mono),48.16,18.37,29.79,12.24,24.1
+IndicBART (Marathi mono),0.0,0.0,0.0,0.0,0.04
+mT5 Zero-shot (Hindi only),35.98,11.22,24.75,8.16,20.84
+mT5 Few-shot 10% Marathi,39.94,12.24,27.7,9.18,21.29
+mT5 Few-shot 25% Marathi,40.23,12.24,27.98,8.16,21.9
+mT5 Few-shot 50% Marathi,47.88,17.35,30.53,10.2,22.79
+mT5 Multilingual joint,48.44,24.49,23.95,14.29,21.91

@@ -216,3 +216,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ───────────────────────── MarathiMWP project-specific ─────────────────────────
+# Upstream HAWP data — all rights reserved by the HAWP authors; download separately
+# from https://github.com/hellomasaya/hawp (do NOT redistribute here)
+splits/hawp_*.json
+**/hawp_*.json
+
+# Copyrighted Balbharati source text (© Maharashtra State Board) — never publish
+**/maths-*.txt
+**/chunks/
+*_review.csv
+BalBharati/
+
+# Model checkpoints / large artifacts (weights are not redistributed)
+models/
+*.pt
+*.bin
+*.safetensors
+
+# Thesis / submission documents — keep out of the code repo
+*.odt
+*.pdf
+*.docx
+*Thesis*.md
+SESSION_SUMMARY.md
+ODT_MANUAL_EDITS.md
+*permission-email*.md
+
+# LibreOffice lock files
+.~lock.*#

@@ -1,0 +1,8 @@
+Model,Answer Acc (%),Equation Acc (%),BLEU
+mT5 (Monolingual Marathi),48.2,46.2,62.0
+Zero-Shot Transfer,36.0,33.4,52.4
+Few-Shot 10% (Hindi pretrain),39.9,37.1,55.9
+Few-Shot 25% (Hindi pretrain),40.2,38.2,57.6
+Few-Shot 50% (Hindi pretrain),47.9,45.0,62.3
+Few-Shot 100% (Hindi pretrain),51.6,48.7,64.3
+Multilingual Joint,48.4,45.3,60.8

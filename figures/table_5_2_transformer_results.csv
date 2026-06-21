@@ -1,0 +1,6 @@
+Model,Answer Acc (%),Equation Acc (%),BLEU
+Rule-Based,29.5,2.3,3.6
+Template-Based,26.9,1.4,6.1
+LSTM Seq2Seq,0.0,0.0,32.6
+mT5-small,48.2,46.2,62.0
+IndicBART,0.0,0.0,15.8

@@ -1,0 +1,11 @@
+Metric,MarathiMWP,HAWP (Hindi)
+Total Problems,2336,2336
+Avg Word Count,20.3,26.6
+Std Word Count,6.9,8.9
+Single-op (%),76.5%,76.5%
+Multi-op (%),23.4%,23.4%
+Addition (%),27.7%,27.7%
+Subtraction (%),28.0%,28.0%
+Multiplication (%),11.5%,11.5%
+Division (%),9.2%,9.2%
+Mixed (%),23.5%,23.5%

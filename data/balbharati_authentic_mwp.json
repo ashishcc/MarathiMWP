@@ -1,0 +1,982 @@
+[
+  {
+    "pIndex": "BB-0000",
+    "Problem": "एका संचाची किंमत 245 रुपये आहे, तर अशा 8 संचांची किंमत किती?",
+    "Equation": "X = ( 245 * 8 )",
+    "Number of Operators": 1,
+    "Answer": 1960,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 4 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0001",
+    "Problem": "एका खुर्चीची किंमत 840 रुपये आहे, तर अशा 5 खुर्च्यांची किंमत किती होईल?",
+    "Equation": "X = ( 840 * 5 )",
+    "Number of Operators": 1,
+    "Answer": 4200,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 4 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0002",
+    "Problem": "तांदळाच्या एका लहान पोत्याची किंमत 825 रुपये आहे, तर अशा 5 पोत्यांची किंमत किती?",
+    "Equation": "X = ( 825 * 5 )",
+    "Number of Operators": 1,
+    "Answer": 4125,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 4 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0003",
+    "Problem": "‘प्लास्टिक टाळा’ या अभियानात 745 विद्यार्थ्यांनी प्रत्येकी 25 कागदी पिशव्या तयार केल्या, तर एकूण किती कागदी पिशव्या तयार झाल्या?",
+    "Equation": "X = ( 745 * 25 )",
+    "Number of Operators": 1,
+    "Answer": 18625,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0004",
+    "Problem": "एका वनराईमध्ये एका रांगेत 215 याप्रमाणे 132 रांगांत औषधी वनस्पतींची रोपे लावली, तर त्या वनराईमध्ये एकूण किती रोपे लावण्यात आली?",
+    "Equation": "X = ( 215 * 132 )",
+    "Number of Operators": 1,
+    "Answer": 28380,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0005",
+    "Problem": "एका संगणकाची किंमत 27540 रुपये आहे, तर तशा 18 संगणकांची किंमत काढा.",
+    "Equation": "X = ( 27540 * 18 )",
+    "Number of Operators": 1,
+    "Answer": 495720,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0006",
+    "Problem": "विज्ञान प्रकल्पाचे साहित्य खरेदी करण्यासाठी एका विद्यार्थ्याला 5000 रुपये देण्यात आले. एका तालुक्यातील 154 विद्यार्थ्यांना या योजनेचा लाभ मिळाला, तर त्या तालुक्यात या योजनेसाठी एकूण किती निधी देण्यात आला?",
+    "Equation": "X = ( 5000 * 154 )",
+    "Number of Operators": 1,
+    "Answer": 770000,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0007",
+    "Problem": "एका दुचाकी वाहनाची किंमत 53670 रुपये आहे, तर अशा 35 वाहनांची किंमत काढा.",
+    "Equation": "X = ( 53670 * 35 )",
+    "Number of Operators": 1,
+    "Answer": 1878450,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0008",
+    "Problem": "चार अंकी सर्वांत मोठी संख्या व तीन अंकी सर्वांत मोठी संख्या यांचा गुणाकार करा.",
+    "Equation": "X = ( 9999 * 999 )",
+    "Number of Operators": 1,
+    "Answer": 9989001,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0009",
+    "Problem": "वारीसाठी एका व्यक्तीला 7650 रुपये खर्च येतो, तर अशा 26 व्यक्तींसाठी एकूण किती खर्च येईल?",
+    "Equation": "X = ( 7650 * 26 )",
+    "Number of Operators": 1,
+    "Answer": 198900,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "medium"
+  },
+  {
+    "pIndex": "BB-0010",
+    "Problem": "ताशी 48 किमी वेगाने 336 किमी अंतर जाण्यास किती तास लागतील?",
+    "Equation": "X = ( 336 / 48 )",
+    "Number of Operators": 1,
+    "Answer": 7.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0011",
+    "Problem": "गिरिजाला 1400 पुस्तके भरण्यासाठी 35 खोकी लागली. प्रत्येक खोक्यातील पुस्तकांची संख्या समान आहे, तर प्रत्येक खोक्यात किती पुस्तके भरली?",
+    "Equation": "X = ( 1400 / 35 )",
+    "Number of Operators": 1,
+    "Answer": 40.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0012",
+    "Problem": "सहलीसाठी प्रत्येकाने 65 रुपये वर्गणी दिली. एकूण 2925 रुपये जमले, तर किती जणांनी वर्गणी दिली?",
+    "Equation": "X = ( 2925 / 65 )",
+    "Number of Operators": 1,
+    "Answer": 45.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0013",
+    "Problem": "कोणत्या संख्येला 56 ने गुणल्यास गुणाकार 9688 येतो?",
+    "Equation": "X = ( 9688 / 56 )",
+    "Number of Operators": 1,
+    "Answer": 173.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0014",
+    "Problem": "एका शेतकऱ्याने मिरचीच्या रोपांचे 140 ट्रे आणले. प्रत्येक ट्रेमध्ये 24 रोपे होती. त्याने एका ओळीत 32 याप्रमाणे ती सर्व रोपे शेतात लावली, तर त्या रोपांच्या किती ओळी झाल्या?",
+    "Equation": "X = ( ( 140 * 24 ) / 32 )",
+    "Number of Operators": 2,
+    "Answer": 105.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 5 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0015",
+    "Problem": "सुलोचनाबाईंची 42 एकर शेती आहे. त्यांनी त्या शेताच्या 2/7 भागात गहू लावला, तर त्यांनी किती एकर जागेत गहू लावला?",
+    "Equation": "X = ( 42 * ( 2 / 7 ) )",
+    "Number of Operators": 2,
+    "Answer": 12.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0016",
+    "Problem": "अशोकरावांनी आपल्या 21 एकर शेताच्या 2/7 भागात केळीची लागवड केली, तर एकूण केळी लागवडीचे क्षेत्र किती?",
+    "Equation": "X = ( 21 * ( 2 / 7 ) )",
+    "Number of Operators": 2,
+    "Answer": 6.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0017",
+    "Problem": "लष्करातील एकूण सैनिकांपैकी काही भाग सैनिक उत्तर सीमेवर संरक्षण करत आहेत. या सैनिकांच्या संख्येच्या तिसऱ्या भागाएवढे सैनिक ईशान्येकडील भागात संरक्षणासाठी कार्यरत आहेत. जर उत्तर सीमेवर कार्यरत असणाऱ्या सैनिकांची संख्या 540000 असेल, तर ईशान्येकडील सैनिकांची संख्या किती असेल?",
+    "Equation": "X = ( 540000 / 3 )",
+    "Number of Operators": 1,
+    "Answer": 180000.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0018",
+    "Problem": "अविनाशने 42 किमी 365 मीटर प्रवास बसने, 12 किमी 460 मी प्रवास मोटारने आणि 640 मीटर प्रवास पायी केला, तर त्याने एकूण किती किमी प्रवास केला. (उत्तर दशांश अपूर्णांकांत लिहा.)",
+    "Equation": "X = ( 42.365 + ( 12.460 + 0.640 ) )",
+    "Number of Operators": 2,
+    "Answer": 55.465,
+    "operation_type": "addition",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0019",
+    "Problem": "आयेशाने सलवारसाठी 1.80 मीटर, कुर्त्यासाठी 2.25 मीटर कापड खरेदी केले. कापडाचा दर 120 रुपये प्रति मीटर असेल, तर तिला दुकानदारास कापडासाठी किती रुपये द्यावे लागतील ?",
+    "Equation": "X = ( ( 1.80 + 2.25 ) * 120 )",
+    "Number of Operators": 2,
+    "Answer": 486.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0020",
+    "Problem": "सुजाताने बाजारातून 4.25 किग्रॅ वजनाचे कलिंगड आणले. त्यातील 1 किग्रॅ 750 ग्रॅम कलिंगड शेजारच्या मुलांना दिले, तर तिच्याकडे किती किलोग्रॅम कलिंगड शिल्लक राहिले ?",
+    "Equation": "X = ( 4.25 - 1.750 )",
+    "Number of Operators": 1,
+    "Answer": 2.5,
+    "operation_type": "subtraction",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0021",
+    "Problem": "अनिता कारने ताशी 85.6 किमी वेगाने प्रवास करत होती. रस्त्यावर ‘कारची वेगमर्यादा ताशी 55 किमी’ अशी सूचना होती. तर तिने गाडीचा वेग कितीने कमी केल्यास वाहतुकीच्या नियमांचे पालन होईल ?",
+    "Equation": "X = ( 85.6 - 55 )",
+    "Number of Operators": 1,
+    "Answer": 30.599999999999994,
+    "operation_type": "subtraction",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0022",
+    "Problem": "पेट्रोलचा दर प्रतिलीटर 62.32 रुपये आहे. सीमाला तिच्या स्कूटरमध्ये अडीच लीटर पेट्रोल भरायचे आहे. तिला किती रुपये द्यावे लागतील?",
+    "Equation": "X = ( 62.32 * 2.5 )",
+    "Number of Operators": 1,
+    "Answer": 155.8,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0023",
+    "Problem": "विरेंद्रने 5.250 किग्रॅ वजनाची एक पिशवी याप्रमाणे 18 पिशव्या तांदूळ खरेदी केला. जर तांदळाचा दर 42 रुपये प्रतिकिग्रॅ असेल, तर त्याने किती रुपये दिले?",
+    "Equation": "X = ( ( 5.250 * 18 ) * 42 )",
+    "Number of Operators": 2,
+    "Answer": 3969.0,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0024",
+    "Problem": "वेदिकाजवळ एकूण 23.50 मीटर कापड आहे. तिने त्या कापडापासून समान आकाराचे 5 पडदे बनवले. जर प्रत्येक पडद्यास 4 मीटर 25 सेमी कापड लागते, तर तिच्याजवळ किती मीटर कापड शिल्लक राहील?",
+    "Equation": "X = ( 23.50 - ( 5 * 4.25 ) )",
+    "Number of Operators": 2,
+    "Answer": 2.25,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0025",
+    "Problem": "प्रज्ञा दररोज नियमितपणे मैदानावरील वर्तुळाकार मार्गावरून चालण्याचा व्यायाम करते. जर ती दररोज 9 फेऱ्यांत एकूण 3.825 किमी अंतर चालते, तर एका फेरीत ती किती अंतर चालते?",
+    "Equation": "X = ( 3.825 / 9 )",
+    "Number of Operators": 1,
+    "Answer": 0.42500000000000004,
+    "operation_type": "division",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0026",
+    "Problem": "औषधनिर्मात्याने 0.25 क्विंटल हिरडा (औषधी वनस्पती) 9500 रुपयांना खरेदी केला, तर एक क्विंटल हिरड्याचा दर किती? (1 क्विंटल = 100 किलोग्रॅम)",
+    "Equation": "X = ( 9500 / 0.25 )",
+    "Number of Operators": 1,
+    "Answer": 38000.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0027",
+    "Problem": "जस्मीनकडे काही रुपये होते. तिच्या आईने तिला 7 रुपये दिल्यावर तिच्याकडे 10 रुपये झाले, तर आधी तिच्याकडे किती रुपये होते ?",
+    "Equation": "X = ( 10 - 7 )",
+    "Number of Operators": 1,
+    "Answer": 3,
+    "operation_type": "subtraction",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0028",
+    "Problem": "एका पेढ्यांच्या बॉक्समध्ये काही पेढे आहेत. प्रत्येकाला 2 पेढे याप्रमाणे वाटल्यास ते 20 मुलांना पुरतात, तर बॉक्समध्ये एकूण पेढे किती ?",
+    "Equation": "X = ( 2 * 20 )",
+    "Number of Operators": 1,
+    "Answer": 40,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0029",
+    "Problem": "5 चॉकलेटची किंमत 25 रुपये आहे. एका चॉकलेटची किंमत किती ?",
+    "Equation": "X = ( 25 / 5 )",
+    "Number of Operators": 1,
+    "Answer": 5.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0030",
+    "Problem": "हरबाकडे काही मेंढ्या होत्या. बाजारात त्यांतील 34 मेंढ्या विकल्यानंतर 176 मेंढ्या शिल्लक राहिल्या, तर हरबाकडे एकूण किती मेंढ्या होत्या ?",
+    "Equation": "X = ( 176 + 34 )",
+    "Number of Operators": 1,
+    "Answer": 210,
+    "operation_type": "addition",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0031",
+    "Problem": "साक्षीने घरी गुळांबा तयार केला व काही बाटल्यांमध्ये भरला. त्या बाटल्यांपैकी 7 बाटल्या गुळांबा मैत्रिणींना वाटल्यानंतर घरी 12 बाटल्या गुळांबा शिल्लक राहिला, तर एकूण किती बाटल्या गुळांबा तयार केला ?",
+    "Equation": "X = ( 7 + 12 )",
+    "Number of Operators": 1,
+    "Answer": 19,
+    "operation_type": "addition",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0032",
+    "Problem": "अर्चनाने काही किग्रॅ गहू बाजारातून खरेदी केला. प्रत्येक महिन्याकरता 12 किग्रॅ असे 3 महिने गहू दळणाकरता काढला, तेव्हा 14 किग्रॅ गहू शिल्लक राहिला, तर अर्चनाने एकूण किती गहू खरेदी केला होता ?",
+    "Equation": "X = ( ( 12 * 3 ) + 14 )",
+    "Number of Operators": 2,
+    "Answer": 50,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0033",
+    "Problem": "शाळेतील मुलींसाठी होस्टेल बांधायचे आहे. दर 15 मुलींसाठी दोन शौचालये हवीत असे ठरले आहे. 75 मुली होस्टेलमध्ये राहणार असतील, तर त्या प्रमाणात किती शौचालये बांधावी लागतील ?",
+    "Equation": "X = ( ( 2 / 15 ) * 75 )",
+    "Number of Operators": 2,
+    "Answer": 10.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0034",
+    "Problem": "15 केळ्यांची फणी 45 रुपयांना मिळते. 8 केळ्यांची किंमत किती ?",
+    "Equation": "X = ( ( 45 / 15 ) * 8 )",
+    "Number of Operators": 2,
+    "Answer": 24.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0035",
+    "Problem": "10 फुलांचा गुच्छ 25 रुपयांना आहे, तर 4 फुलांची किंमत किती ?",
+    "Equation": "X = ( ( 25 / 10 ) * 4 )",
+    "Number of Operators": 2,
+    "Answer": 10.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0036",
+    "Problem": "20 मीटर कापडाची किंमत 3600 आहे, तर 16 मीटर कापडाची किंमत काढा.",
+    "Equation": "X = ( ( 3600 / 20 ) * 16 )",
+    "Number of Operators": 2,
+    "Answer": 2880.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0037",
+    "Problem": "10 किग्रॅ तांदळाची किंमत 325 आहे, तर 8 किग्रॅ तांदळाची किंमत काढा.",
+    "Equation": "X = ( ( 325 / 10 ) * 8 )",
+    "Number of Operators": 2,
+    "Answer": 260.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0038",
+    "Problem": "14 खुर्च्यांची किंमत 5992 आहे, तर 12 खुर्च्यांसाठी किती रुपये द्यावे लागतील ?",
+    "Equation": "X = ( ( 5992 / 14 ) * 12 )",
+    "Number of Operators": 2,
+    "Answer": 5136.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0039",
+    "Problem": "30 डब्यांचे वजन 6 किग्रॅ आहे, तर 1080 डब्यांचे वजन किती किग्रॅ होईल ?",
+    "Equation": "X = ( ( 6 / 30 ) * 1080 )",
+    "Number of Operators": 2,
+    "Answer": 216.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0040",
+    "Problem": "तीन एकर शेतीची मशागत करण्याकरता ट्रॅक्टरला 12 लीटर डिझेल लागते, तर 19 एकर शेतीची मशागत करण्यासाठी किती लीटर डिझेल लागेल ?",
+    "Equation": "X = ( ( 12 / 3 ) * 19 )",
+    "Number of Operators": 2,
+    "Answer": 76.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0041",
+    "Problem": "एका साखर कारखान्यामध्ये 48 टन उसापासून 5376 किग्रॅ साखर मिळते. सविताताईंच्या शेतात तयार झालेला ऊस 50 टन आहे, तर या उसापासून किती साखर तयार होईल ?",
+    "Equation": "X = ( ( 5376 / 48 ) * 50 )",
+    "Number of Operators": 2,
+    "Answer": 5600.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0042",
+    "Problem": "एका आमराईत 8 रांगांत 128 झाडे आहेत. प्रत्येक रांगेतील झाडांच्या संख्या समान असल्यास अशा 13 रांगांत किती झाडे असतील ?",
+    "Equation": "X = ( ( 128 / 8 ) * 13 )",
+    "Number of Operators": 2,
+    "Answer": 208.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0043",
+    "Problem": "एका शाळेतील 1200 विद्यार्थ्यांपैकी 720 विद्यार्थ्यांना संकलित मूल्यमापनात गणित विषयात 'अ' श्रेणी मिळाली, तर 'अ' श्रेणी मिळालेल्या विद्यार्थ्यांची टक्केवारी किती ?",
+    "Equation": "X = ( ( 720 / 1200 ) * 100 )",
+    "Number of Operators": 2,
+    "Answer": 60.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0044",
+    "Problem": "एका समाजसेवी संस्थेने एका जिल्ह्यातील 400 शाळांपैकी 18% शाळा दत्तक घेतल्या, तर दत्तक घेतलेल्या एकूण शाळा किती ?",
+    "Equation": "X = ( ( 400 * 18 ) / 100 )",
+    "Number of Operators": 2,
+    "Answer": 72.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0045",
+    "Problem": "एका परीक्षेत शबानाला 800 पैकी 736 गुण मिळाले, तर तिला किती टक्के गुण मिळाले ?",
+    "Equation": "X = ( ( 736 / 800 ) * 100 )",
+    "Number of Operators": 2,
+    "Answer": 92.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0046",
+    "Problem": "प्रकाशने शेतातील 19500 चौमी शेतजमिनीपैकी 75% जमिनीत ज्वारी पेरली, तर त्याने किती चौमी जागेत ज्वारी पेरली ?",
+    "Equation": "X = ( ( 19500 * 75 ) / 100 )",
+    "Number of Operators": 2,
+    "Answer": 14625.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0047",
+    "Problem": "एका गावातील 5675 लोकांपैकी 5448 लोक साक्षर आहेत, तर गावाची साक्षरता किती टक्के आहे ?",
+    "Equation": "X = ( ( 5448 / 5675 ) * 100 )",
+    "Number of Operators": 2,
+    "Answer": 96.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0048",
+    "Problem": "प्रकाशने शेतातील 19500 चाैमी शेतजमिनीपैकी 75% जमिनीत ज्वारी पेरली, तर त्याने किती चौमी जागेत ज्वारी पेरली ?",
+    "Equation": "X = ( ( 19500 * 75 ) / 100 )",
+    "Number of Operators": 2,
+    "Answer": 14625.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0049",
+    "Problem": "हमीदभाईंनी 2000 रुपयांची केळी विकत घेतली व ती सर्व केळी 1890 रुपयांस विकली, तर या व्यवहारात त्यांना नफा झाला की तोटा ? किती ?",
+    "Equation": "X = ( 2000 - 1890 )",
+    "Number of Operators": 1,
+    "Answer": 110,
+    "operation_type": "subtraction",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0050",
+    "Problem": "हरभजनसिंग यांनी 500 किलोग्रॅम तांदूळ 22000 रुपयांस विकत घेतला व प्रति किलोग्रॅम 48 रुपयांनी सर्व तांदूळ विकला, तर त्यांना किती रुपये नफा झाला ?",
+    "Equation": "X = ( ( 500 * 48 ) - 22000 )",
+    "Number of Operators": 2,
+    "Answer": 2000,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0051",
+    "Problem": "दुकानदाराने एक सायकल 3000 रुपयांना खरेदी केली व तीच सायकल 3400 रुपयांस विकली, तर त्याला किती नफा झाला ?",
+    "Equation": "X = ( 3400 - 3000 )",
+    "Number of Operators": 1,
+    "Answer": 400,
+    "operation_type": "subtraction",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0052",
+    "Problem": "सुनंदाबाईंनी 475 रुपयांना दूध खरेदी केले. त्या दुधाचे दही करून ते 700 रुपयांना विकले, तर त्यांना किती नफा झाला ?",
+    "Equation": "X = ( 700 - 475 )",
+    "Number of Operators": 1,
+    "Answer": 225,
+    "operation_type": "subtraction",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0053",
+    "Problem": "दिवाळीत जिजामाता महिला बचतगटाने चकल्या तयार करण्यासाठी 15000 रुपयांचा कच्चा माल खरेदी केला. तयार झालेल्या चकल्या विकून त्यांना 22050 रुपये मिळाले, तर बचतगटाला किती नफा झाला ?",
+    "Equation": "X = ( 22050 - 15000 )",
+    "Number of Operators": 1,
+    "Answer": 7050,
+    "operation_type": "subtraction",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0054",
+    "Problem": "शरदने एक क्विंटल कांदे 2000 रुपयांना खरेदी केले. नंतर त्याने 18 रुपयांना एक किलोग्रॅम या दराने सर्व कांदे विकले, तर या व्यवहारात त्याला नफा झाला की तोटा ? किती ?",
+    "Equation": "X = ( ( 100 * 18 ) - 2000 )",
+    "Number of Operators": 2,
+    "Answer": -200,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0055",
+    "Problem": "कांताबाईंनी ठोक व्यापाऱ्याकडून 25 साड्या 10000 रुपयांना खरेदी केल्या व या सर्व साड्या त्यांनी 460 रुपयांना एक या दराने विकल्या, तर या व्यवहारात कांताबाईंना किती नफा होईल ?",
+    "Equation": "X = ( ( 25 * 460 ) - 10000 )",
+    "Number of Operators": 2,
+    "Answer": 1500,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0056",
+    "Problem": "अब्राहम यांनी 50000 रुपयांचा माल खरेदी केला. कर व वाहतूक खर्च मिळून त्यांना 7000 रुपये खर्च आला. त्यांनी तो माल जर 65000 रुपयांस विकला असेल, तर त्यांना या व्यवहारात नफा झाला की तोटा ? किती ?",
+    "Equation": "X = ( 65000 - ( 50000 + 7000 ) )",
+    "Number of Operators": 2,
+    "Answer": 8000,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0057",
+    "Problem": "सीमाने 800 रुपयांची भाजी खरेदी केली व 40 रुपये गाडीभाडे देऊन ती दुकानात आणली. सर्व भाजी विकून तिला 966 रुपये मिळाले, तर तिला किती रुपये नफा झाला ?",
+    "Equation": "X = ( 966 - ( 800 + 40 ) )",
+    "Number of Operators": 2,
+    "Answer": 126,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0058",
+    "Problem": "सरिताबेन यांनी 700 रुपयांस एक याप्रमाणे 18 खुर्च्या खरेदी केल्या व 18900 रुपयांस त्या सर्व खुर्च्या विकल्या, तर त्यांना किती रुपये नफा झाला ?",
+    "Equation": "X = ( 18900 - ( 700 * 18 ) )",
+    "Number of Operators": 2,
+    "Answer": 6300,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0059",
+    "Problem": "सरिताबेन यांनी 700 रुपयांस एक याप्रमाणे 18 खुर्च्या खरेदी केल्या व 18900 रुपयांस त्या सर्व खुर्च्या विकल्या, तर त्यांना नफा झाला की तोटा ? किती रुपये ?",
+    "Equation": "X = ( 18900 - ( 700 * 18 ) )",
+    "Number of Operators": 2,
+    "Answer": 6300,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0060",
+    "Problem": "विनिताने द.सा.द.शे. 7 दराने बँकेत 15000 रुपये 1 वर्षासाठी ठेव म्हणून ठेवले, तर तिला वर्ष अखेरीस किती व्याज मिळेल ?",
+    "Equation": "X = ( ( 15000 * 7 ) / 100 )",
+    "Number of Operators": 2,
+    "Answer": 1050.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0061",
+    "Problem": "द.सा.द.शे. 10 दराने 6000 रुपयांचे एका वर्षाचे व्याज किती होईल ?",
+    "Equation": "X = ( ( 6000 * 10 ) / 100 )",
+    "Number of Operators": 2,
+    "Answer": 600.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0062",
+    "Problem": "शेततळे तयार करण्यासाठी किसनरावांनी बँकेकडून रुपये 35250 द.सा.द.शे. 6 दराने एक वर्षासाठी घेतले, तर त्यांना वर्ष अखेरीस बँकेस किती रुपये व्याज द्यावे लागेल ?",
+    "Equation": "X = ( ( 35250 * 6 ) / 100 )",
+    "Number of Operators": 2,
+    "Answer": 2115.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0063",
+    "Problem": "7 सफरचंदे 2 जणांत समान वाटल्यावर प्रत्येकाच्या वाट्याला किती सफरचंदे येतील ?",
+    "Equation": "X = ( 7 / 2 )",
+    "Number of Operators": 1,
+    "Answer": 3.5,
+    "operation_type": "division",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0064",
+    "Problem": "9 किलोग्रॅम तांदूळ 5 जणांत समान वाटले, तर प्रत्येकाला किती किलोग्रॅम तांदूळ मिळतील ?",
+    "Equation": "X = ( 9 / 5 )",
+    "Number of Operators": 1,
+    "Answer": 1.8,
+    "operation_type": "division",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0065",
+    "Problem": "5 सारखे शर्ट शिवण्यासाठी 11 मीटर कापड लागते, तर एका शर्टासाठी किती मीटर कापड लागेल ?",
+    "Equation": "X = ( 11 / 5 )",
+    "Number of Operators": 1,
+    "Answer": 2.2,
+    "operation_type": "division",
+    "source": "Balbharati Std 6 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0066",
+    "Problem": "दोन संख्यांचा लसावि व मसावि अनुक्रमे 432 व 72 आहे. दोन संख्यांपैकी एक संख्या 216 असेल तर दुसरी संख्या काढा.",
+    "Equation": "X = ( ( 432 * 72 ) / 216 )",
+    "Number of Operators": 2,
+    "Answer": 144.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "medium"
+  },
+  {
+    "pIndex": "BB-0067",
+    "Problem": "दोन अंकी दोन संख्यांचा गुणाकार 765 अाहे आणि त्यांचा मसावि 3 आहे, तर त्यांचा लसावि काढा.",
+    "Equation": "X = ( 765 / 3 )",
+    "Number of Operators": 1,
+    "Answer": 255.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "medium"
+  },
+  {
+    "pIndex": "BB-0068",
+    "Problem": "7 मुलांना प्रत्येकी 4 वह्यांचे वाटप केले. एकूण वह्या किती?",
+    "Equation": "X = ( 4 * 7 )",
+    "Number of Operators": 1,
+    "Answer": 28,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0069",
+    "Problem": "10 पेनांची किंमत 60 रुपये असेल तर, अशा 13 पेनांची किंमत किती रुपये ?",
+    "Equation": "X = ( ( 60 / 10 ) * 13 )",
+    "Number of Operators": 2,
+    "Answer": 78.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0070",
+    "Problem": "7 किग्रॅ कांदे 140 रुपयांना तर 12 किग्रॅ कांदे किती रुपयांना मिळतील ?",
+    "Equation": "X = ( ( 140 / 7 ) * 12 )",
+    "Number of Operators": 2,
+    "Answer": 240.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0071",
+    "Problem": "600 रुपयांमध्ये 15 पेंढ्या कडबा मिळतो, तर 1280 रुपयांमध्ये किती पेंढ्या कडबा मिळेल ?",
+    "Equation": "X = ( ( 15 / 600 ) * 1280 )",
+    "Number of Operators": 2,
+    "Answer": 32.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0072",
+    "Problem": "12 क्विंटल सोयाबीनला 36,000 रुपये पडतात, तर 8 क्विंटल सोयाबीनची किंमत किती ?",
+    "Equation": "X = ( ( 36000 / 12 ) * 8 )",
+    "Number of Operators": 2,
+    "Answer": 24000.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0073",
+    "Problem": "दोन मोबाइलची किंमत 16,000 रुपये आहे असे 13 मोबाइल खरेदी केले, तर एकूण किती रुपये लागतील ?",
+    "Equation": "X = ( ( 16000 / 2 ) * 13 )",
+    "Number of Operators": 2,
+    "Answer": 104000.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0074",
+    "Problem": "एक मोठी भिंत बांधायला 15 मजुरांना 8 तास लागतात; तर 12 मजुरांना तेच काम करायला किती तास लागतील ?",
+    "Equation": "X = ( ( 15 * 8 ) / 12 )",
+    "Number of Operators": 2,
+    "Answer": 10.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0075",
+    "Problem": "वर्गामध्ये 40 पानी हस्तलिखित अंक तयार करण्याचे काम चालू केले. एका विद्यार्थ्याला हा अंक तयार करायला 80 दिवस लागतात, तर 4 विद्यार्थ्यांना अंक तयार करायला किती दिवस लागतील ?",
+    "Equation": "X = ( ( 80 * 1 ) / 4 )",
+    "Number of Operators": 2,
+    "Answer": 20.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0076",
+    "Problem": "एका शेताची खुरपणी पूर्ण करण्यास 5 मजुरांना 12 दिवस लागतात, तर 6 मजुरांना किती दिवस लागतील ?",
+    "Equation": "X = ( ( 5 * 12 ) / 6 )",
+    "Number of Operators": 2,
+    "Answer": 10.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0077",
+    "Problem": "एका शेताची खुरपणी पूर्ण करण्यास 5 मजुरांना 12 दिवस लागतात, तर 15 मजुरांना किती दिवस लागतील ?",
+    "Equation": "X = ( ( 5 * 12 ) / 15 )",
+    "Number of Operators": 2,
+    "Answer": 4.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0078",
+    "Problem": "मोहनरावांनी रोज 40 पाने याप्रमाणे एक पुस्तक वाचले, तर ते पुस्तक 10 दिवसांत वाचून पूर्ण होते. तेच पुस्तक 8 दिवसांत वाचून पूर्ण करायचे असल्यास दररोज किती पाने वाचावीत ?",
+    "Equation": "X = ( ( 40 * 10 ) / 8 )",
+    "Number of Operators": 2,
+    "Answer": 50.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0079",
+    "Problem": "मेरीचा सायकल चालवण्याचा वेग ताशी 6 किमी आहे. ती 12 किमी अंतरावरील मावशीच्या घरी जाणार आहे, तर तिला किती वेळ लागेल ?",
+    "Equation": "X = ( 12 / 6 )",
+    "Number of Operators": 1,
+    "Answer": 2.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0080",
+    "Problem": "मेरीचा सायकल चालवण्याचा वेग ताशी 4 किमी झाला, तर ती 12 किमी अंतरावरील मावशीच्या घरी जाण्यास तिला किती वेळ लागेल ?",
+    "Equation": "X = ( 12 / 4 )",
+    "Number of Operators": 1,
+    "Answer": 3.0,
+    "operation_type": "division",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0081",
+    "Problem": "एका शासकीय गोदामातील धान्यसाठा 4000 माणसांना 30 दिवस पुरतो, तर तो धान्यसाठा 6000 माणसांना किती दिवस पुरेल?",
+    "Equation": "X = ( ( 4000 * 30 ) / 6000 )",
+    "Number of Operators": 2,
+    "Answer": 20.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0082",
+    "Problem": "आकाशने द.सा.द.शे. 8 दराने बँकेत 25000 रुपये 3 वर्षांसाठी ठेव म्हणून ठेवले, तर त्याला प्रत्येक वर्षी किती व्याज मिळाले ?",
+    "Equation": "X = ( 25000 * 8 / 100 )",
+    "Number of Operators": 2,
+    "Answer": 2000.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0083",
+    "Problem": "व्याजाच्या काही दराने 5000 रुपये मुद्‌दलावर 4 वर्षांत 1200 रुपये व्याज होते, तर त्याच दराने त्याच मुदतीत 15000 रुपये मुद्‌दलाचे व्याज किती होईल ?",
+    "Equation": "X = ( ( 1200 / 5000 ) * 15000 )",
+    "Number of Operators": 2,
+    "Answer": 3600.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0084",
+    "Problem": "3000 रुपयांचे विशिष्ट दराचे, विशिष्ट वर्षांचे व्याज 600 रुपये येते; तर 1500 रुपयांचे तितक्याच दराचे तितक्याच वर्षांचे व्याज किती रुपये येईल ?",
+    "Equation": "X = ( ( 600 / 3000 ) * 1500 )",
+    "Number of Operators": 2,
+    "Answer": 300.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0085",
+    "Problem": "एका रस्त्याच्या डांबरीकरणाचे काम करण्यासाठी 10 मजुरांना 4 दिवस लागतात. तर 8 मजुरांना किती दिवस लागतील ?",
+    "Equation": "X = ( ( 10 * 4 ) / 8 )",
+    "Number of Operators": 2,
+    "Answer": 5.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 7 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0086",
+    "Problem": "एका वस्तूची छापील किंमत 1700 रुपये असून तिची विक्री किंमत 1540 रुपये आहे, तर त्या वस्तूवर दिलेली सूट काढा.",
+    "Equation": "X = ( 1700 - 1540 )",
+    "Number of Operators": 1,
+    "Answer": 160,
+    "operation_type": "subtraction",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0087",
+    "Problem": "एका वस्तूची छापील किंमत 990 रुपये असून तिच्यावर शेकडा 10 सूट दिली, तर तिची विक्री किंमत काढा.",
+    "Equation": "X = ( 990 * ( 90 / 100 ) )",
+    "Number of Operators": 2,
+    "Answer": 891.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0088",
+    "Problem": "एका वस्तूची विक्री किंमत 900 रुपये असून तिच्यावर शेकडा 20 सूट दिली होती, तर त्या वस्तूची छापील किंमत काढा.",
+    "Equation": "X = ( 900 / ( 80 / 100 ) )",
+    "Number of Operators": 2,
+    "Answer": 1125.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0089",
+    "Problem": "दुकानदार एका दूरदर्शन संचावर शेकडा 11 सूट देतो, त्यामुळे ग्राहकाला तो संच 22250 रुपयांस मिळतो, तर त्या दूरदर्शन संचाची छापील किंमत काढा.",
+    "Equation": "X = ( 22250 / ( 89 / 100 ) )",
+    "Number of Operators": 2,
+    "Answer": 25000.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0090",
+    "Problem": "एका खुर्चीची छापील किंमत 1200 रुपये असून तिच्यावर 10% सूट आहे, तर खुर्चीवर मिळणारी एकूण सूट किती?",
+    "Equation": "X = ( 1200 * ( 10 / 100 ) )",
+    "Number of Operators": 2,
+    "Answer": 120.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0091",
+    "Problem": "छापील किमतीवर 20% सूट देऊन एक साडी 1120 रुपयांना विकली, तर त्या साडीची छापील किंमत काढा.",
+    "Equation": "X = ( 1120 / ( 80 / 100 ) )",
+    "Number of Operators": 2,
+    "Answer": 1400.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0092",
+    "Problem": "हातमाग दुकानातून सुधीरने प्रत्येकी 375 रुपये किमतीच्या 2 चादरी खरेदी केल्या, तर त्या चादरींची एकूण किंमत किती?",
+    "Equation": "X = ( 2 * 375 )",
+    "Number of Operators": 1,
+    "Answer": 750,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0093",
+    "Problem": "सुखदेवने अडत्यामार्फत 10 क्विंटल गहू प्रतिक्विंटल 4050 रुपये या दराने विकला, तर गव्हाची एकूण विक्री किंमत किती?",
+    "Equation": "X = ( 10 * 4050 )",
+    "Number of Operators": 1,
+    "Answer": 40500,
+    "operation_type": "multiplication",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0094",
+    "Problem": "गव्हाची विक्री किंमत 40500 रुपये असून सुखदेवने अडत्याला शेकडा 1 दराने अडत दिली, तर अडतीची रक्कम किती?",
+    "Equation": "X = ( 40500 * ( 1 / 100 ) )",
+    "Number of Operators": 2,
+    "Answer": 405.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0095",
+    "Problem": "सफरचंदांच्या राशीतील सर्व सफरचंदे पेट्यांत भरायची आहेत. प्रत्येक पेटीत 24 सफरचंदे ठेवली तर 27 पेट्या लागतात. जर प्रत्येक पेटीत 36 सफरचंदे ठेवली, तर किती पेट्या लागतील?",
+    "Equation": "X = ( ( 24 * 27 ) / 36 )",
+    "Number of Operators": 2,
+    "Answer": 18.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0096",
+    "Problem": "एका शेतातील शेंगा काढण्याचे काम 15 स्त्रिया 8 दिवसांत पूर्ण करतात. तेच काम 6 दिवसांत पूर्ण करायचे असल्यास किती स्त्रिया कामावर असाव्यात?",
+    "Equation": "X = ( ( 15 * 8 ) / 6 )",
+    "Number of Operators": 2,
+    "Answer": 20.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  },
+  {
+    "pIndex": "BB-0097",
+    "Problem": "एका वाहनाचा सरासरी वेग ताशी 48 किमी असताना काही अंतर जाण्यासाठी 6 तास लागतात, तर वेग ताशी 72 किमी असताना तेवढेच अंतर जाण्यासाठी किती वेळ लागेल?",
+    "Equation": "X = ( ( 48 * 6 ) / 72 )",
+    "Number of Operators": 2,
+    "Answer": 4.0,
+    "operation_type": "mixed",
+    "source": "Balbharati Std 8 Mathematics (Maharashtra State Board)",
+    "confidence": "high"
+  }
+]
