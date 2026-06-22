@@ -69,14 +69,16 @@ under the **MIT License** — see [`LICENSE`](LICENSE).
 **The datasets are NOT covered by the MIT License** and carry separate terms —
 see [`DATA-TERMS.md`](DATA-TERMS.md). In brief:
 
-- **MarathiMWP** (translated problems) is a derivative of **HAWP**
+- **MarathiMWP** (translated problems: `data/marathi.json`, `splits/marathi_*.json`)
+  is a derivative of **HAWP**
   ([Sharma et al., 2022, LREC](https://aclanthology.org/2022.lrec-1.373/);
-  [repo](https://github.com/hellomasaya/hawp)), which carries no explicit
-  licence (all rights reserved). The translated set is shared for
-  **non-commercial academic research only**, with attribution to HAWP.
-- **Authentic Balbharati problems** (Std 4–8) are copyrighted textbook excerpts,
-  © Maharashtra State Board, included as a research sample under fair-dealing —
-  **not openly licensed**.
+  [repo](https://github.com/hellomasaya/hawp)). It is released under
+  **CC BY-NC 4.0** — see [`LICENSE-DATA`](LICENSE-DATA) — with the permission of the
+  HAWP authors (granted June 2026). Free for non-commercial use with attribution to
+  HAWP.
+- **Authentic Balbharati problems** (Std 4–8, `data/balbharati_authentic_mwp.json`)
+  are copyrighted textbook excerpts, © Maharashtra State Board, included as a
+  research sample under fair-dealing — **not openly licensed**.
 - Models used: **mT5** (Apache-2.0), **IndicBART** (MIT) — weights are not
   redistributed here.
 

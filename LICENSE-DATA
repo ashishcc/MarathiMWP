@@ -1,0 +1,48 @@
+DATA LICENCE — MarathiMWP translated dataset
+=============================================
+
+SCOPE
+-----
+This licence applies ONLY to the MarathiMWP translated arithmetic word problems:
+  - data/marathi.json
+  - splits/marathi_train.json, splits/marathi_val.json, splits/marathi_test.json
+  - the translated Marathi problem text reproduced in splits/*_predictions.json
+
+It does NOT apply to:
+  - the source code (notebooks, utils/) — see LICENSE (MIT);
+  - data/balbharati_authentic_mwp.json — © Maharashtra State Board; see DATA-TERMS.md.
+
+
+LICENCE
+-------
+The MarathiMWP translated dataset is licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International Licence (CC BY-NC 4.0).
+
+  Human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
+  Full legal code:        https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+  - Attribution — You must give appropriate credit (see below), provide a link to
+    the licence, and indicate if changes were made.
+  - NonCommercial — You may not use the material for commercial purposes.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the licence permits.
+
+
+ATTRIBUTION / PROVENANCE
+------------------------
+The MarathiMWP problems are Marathi translations of the HAWP Hindi dataset, with
+HAWP's gold equations preserved. Released under CC BY-NC 4.0 with the permission of
+the HAWP authors (granted by Pruthwik Mishra on their behalf, June 2026). When using
+this dataset, please credit MarathiMWP and cite HAWP:
+
+  Harshita Sharma, Pruthwik Mishra, and Dipti Sharma. 2022.
+  HAWP: a Dataset for Hindi Arithmetic Word Problem Solving.
+  In Proceedings of the Thirteenth Language Resources and Evaluation Conference
+  (LREC), pages 3479-3490, Marseille, France. European Language Resources Association.
+  https://aclanthology.org/2022.lrec-1.373/  -  https://github.com/hellomasaya/hawp
